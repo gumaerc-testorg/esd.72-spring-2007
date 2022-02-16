@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture slides on decision analysis and multiattribute utility theory.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-72-engineering-risk-benefit-analysis-spring-2007/fa8e32c7706086815b54fcbfa342660d_da6.pdf
+file: /media/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/fa8e32c7706086815b54fcbfa342660d_da6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: da6.pdf
 uid: fa8e32c7-7060-8681-5b54-fcbfa342660d

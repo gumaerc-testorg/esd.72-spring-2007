@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 14865558-19a2-e2de-7c82-d433f2b1f41a
 resourcetype: Document
 title: da5.pdf
 uid: 3cbf8282-1b1e-b650-cdb4-f150fbf27df1

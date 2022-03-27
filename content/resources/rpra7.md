@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 14865558-19a2-e2de-7c82-d433f2b1f41a
 resourcetype: Document
 title: rpra7.pdf
 uid: 16639e9b-f0b2-5d1f-c6fd-b1356f77abb6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 14865558-19a2-e2de-7c82-d433f2b1f41a
 resourcetype: Document
 title: cba3.pdf
 uid: 1ddaa9c1-80aa-7db0-4223-045ffdc70817

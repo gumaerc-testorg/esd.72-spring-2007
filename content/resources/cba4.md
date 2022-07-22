@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/d1fd085c4efc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cba4.pdf
 uid: d1fd085c-4efc-ae09-c9f6-e54760089130
 ---
 Lecture slides on cost-benefit analysis and including uncertainty.
-

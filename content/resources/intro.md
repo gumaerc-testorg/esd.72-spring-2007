@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/13386d646845
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: intro.pdf
 uid: 13386d64-6845-d04a-e282-95d24b33e99b
 ---
 Lecture slides with an introduction to the course.
-

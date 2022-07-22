@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/1ddaa9c180aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cba3.pdf
 uid: 1ddaa9c1-80aa-7db0-4223-045ffdc70817
 ---
 Lecture slides on cost-benefit analysis and bases for comparison of alternatives.
-

@@ -6,6 +6,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/81e8caf57f17
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rpra1.pdf
 uid: 81e8caf5-7f17-53e5-43cc-78dad769d9dd
 ---
 Lecture slides on reliability and probabilistic risk assessment, and the logic of certainty.
-

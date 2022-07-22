@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/3bf985a2ef57
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: da4.pdf
 uid: 3bf985a2-ef57-009c-4335-87484f1123ea
 ---
 Lecture slides on decision analysis and introduction to utility.
-

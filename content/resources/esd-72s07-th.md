@@ -11,10 +11,10 @@ image_metadata:
   image-alt: Fault-tree diagram showing system failure as the result of all three
     components failing, or any set of two out of three components.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-72s07-th.jpg
 uid: bd8520ac-8192-6f90-16cd-ec7e4a3c5d63
 ---
 New image Upload
-

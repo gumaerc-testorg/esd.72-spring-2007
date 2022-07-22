@@ -11,10 +11,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: student_pwr_opt.gif
 uid: a9be0471-ff37-fae4-0fe9-734ad67ae510
 ---
 Pressure water reactors use fusion to heat pressurized water that in turn creates steam power. To operate safe nuclear power plants, accurate risk assessment and analysis of the costs and benefits must be part of the design process. (Image courtesy of Nuclear Regulatory Commission.)
-

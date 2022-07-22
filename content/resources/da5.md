@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/3cbf82821b1e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: da5.pdf
 uid: 3cbf8282-1b1e-b650-cdb4-f150fbf27df1
 ---
 Lecture slides on decision analysis and risk aversion.
-

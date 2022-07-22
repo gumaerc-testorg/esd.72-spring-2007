@@ -6,6 +6,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/0162fa68c746
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rpra5.pdf
 uid: 0162fa68-c746-cc50-6483-ee6a3a34e99b
 ---
 Lecture slides on reliability and probabilistic risk assessment, data and epistemic uncertainties, and statistics.
-

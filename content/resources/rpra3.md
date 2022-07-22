@@ -6,6 +6,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/f4b6483cc1e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rpra3.pdf
 uid: f4b6483c-c1e2-8cac-9de7-5b2fd2b2ad08
 ---
 Lecture slides on reliability and probabilistic risk assessment, and probability distributions.
-

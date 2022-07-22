@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/e0cbcf177b4a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cba2.pdf
 uid: e0cbcf17-7b4a-ee76-a4a8-d60bb8df6583
 ---
 Lecture slides on cost-benefit analysis and the time value of money.
-

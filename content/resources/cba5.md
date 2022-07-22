@@ -5,6 +5,7 @@ file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c8aaf25f978b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cba5.pdf
 uid: c8aaf25f-978b-7267-9948-63791788f3a1
 ---
 Lecture slides on cost-benefit analysis and evaluating public activities.
-

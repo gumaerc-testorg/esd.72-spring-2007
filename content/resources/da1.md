@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on decision analysis and the multistage decision model.
 file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/23bb56e577f168fe62b4e4a37e7dd81c_da1.pdf
+file_size: 176553
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

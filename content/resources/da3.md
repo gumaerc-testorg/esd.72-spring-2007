@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on decision analysis and the axioms of rational behavior.
 file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/eaeabb6bd8ca05f6ff90d8902193bd43_da3.pdf
+file_size: 71429
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

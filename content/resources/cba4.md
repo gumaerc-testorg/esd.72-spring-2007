@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on cost-benefit analysis and including uncertainty.
-file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/d1fd085c4efcae09c9f6e54760089130_cba4.pdf
+file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/d1fd085c4efcae09c9f6e54760089130_cba4.pdf
 file_size: 188820
 file_type: application/pdf
 learning_resource_types:

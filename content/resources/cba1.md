@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on the background and fundamental premises of cost-benefit
   analysis.
-file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/7d615f86b05032f956ad5493f8bbeaa4_cba1.pdf
+file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/7d615f86b05032f956ad5493f8bbeaa4_cba1.pdf
 file_size: 40040
 file_type: application/pdf
 learning_resource_types:

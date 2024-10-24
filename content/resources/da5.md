@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on decision analysis and risk aversion.
-file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/3cbf82821b1eb650cdb4f150fbf27df1_da5.pdf
+file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/3cbf82821b1eb650cdb4f150fbf27df1_da5.pdf
 file_size: 171054
 file_type: application/pdf
 learning_resource_types:

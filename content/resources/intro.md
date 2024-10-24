@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides with an introduction to the course.
-file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/13386d646845d04ae28295d24b33e99b_intro.pdf
+file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/13386d646845d04ae28295d24b33e99b_intro.pdf
 file_size: 82750
 file_type: application/pdf
 learning_resource_types:

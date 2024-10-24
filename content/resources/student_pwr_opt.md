@@ -4,7 +4,7 @@ description: Pressure water reactors use fusion to heat pressurized water that i
   turn creates steam power. To operate safe nuclear power plants, accurate risk assessment
   and analysis of the costs and benefits must be part of the design process. (Image
   courtesy of Nuclear Regulatory Commission.)
-file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/a9be0471ff37fae40fe9734ad67ae510_student_pwr_opt.gif
+file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/a9be0471ff37fae40fe9734ad67ae510_student_pwr_opt.gif
 file_size: 264750
 file_type: image/gif
 image_metadata:

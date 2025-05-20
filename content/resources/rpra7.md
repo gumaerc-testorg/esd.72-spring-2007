@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on reliability and probabilistic risk assessment, and
   risk management.
-file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/16639e9bf0b25d1fc6fdb1356f77abb6_rpra7.pdf
+file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/16639e9bf0b25d1fc6fdb1356f77abb6_rpra7.pdf
 file_size: 125475
 file_type: application/pdf
 learning_resource_types:

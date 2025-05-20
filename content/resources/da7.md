@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on decision analysis and risk management.
-file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/01478653575b2aca511556eb7a051758_da7.pdf
+file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/01478653575b2aca511556eb7a051758_da7.pdf
 file_size: 704412
 file_type: application/pdf
 learning_resource_types:

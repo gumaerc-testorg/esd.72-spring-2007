@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on cost-benefit analysis and bases for comparison of alternatives.
-file: /ol-ocw-studio-app/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/1ddaa9c180aa7db04223045ffdc70817_cba3.pdf
+file: /courses/esd-72-engineering-risk-benefit-analysis-spring-2007/1ddaa9c180aa7db04223045ffdc70817_cba3.pdf
 file_size: 166147
 file_type: application/pdf
 learning_resource_types:
